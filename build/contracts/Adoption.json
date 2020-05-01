@@ -1,0 +1,102 @@
+{
+  "contractName": "Adoption",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/home/dulce/truffle/contracts/Adoption.sol\":\"Adoption\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/home/dulce/truffle/contracts/Adoption.sol\":{\"keccak256\":\"0x4766d4d44336fa7015fb00976f18df3773953c4c72ebd4d8f0e52b9f1cb16c6c\",\"urls\":[\"bzz-raw://97da93c36894e704ad320ada198514f5701c3f298767ab001d9e4cbb232bcce9\",\"dweb:/ipfs/QmdGYnyVdjSfYcHGGh5VKap34ULdpqC4dQNqVe6B8GeWp7\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a7231582041ea16a79678071ba9d1a39207893adffbfdbc0b50df50c2fdb6ef26aab4fe0164736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a7231582041ea16a79678071ba9d1a39207893adffbfdbc0b50df50c2fdb6ef26aab4fe0164736f6c63430005100032",
+  "sourceMap": "25:22:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;25:22:0;;;;;;;",
+  "deployedSourceMap": "25:22:0:-;;;;;",
+  "source": "pragma solidity 0.5.16;\n\ncontract Adoption {\n\n}",
+  "sourcePath": "/home/dulce/truffle/contracts/Adoption.sol",
+  "ast": {
+    "absolutePath": "/home/dulce/truffle/contracts/Adoption.sol",
+    "exportedSymbols": {
+      "Adoption": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "0.5",
+          ".16"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Adoption",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "25:22:0"
+      }
+    ],
+    "src": "0:47:0"
+  },
+  "legacyAST": {
+    "absolutePath": "/home/dulce/truffle/contracts/Adoption.sol",
+    "exportedSymbols": {
+      "Adoption": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "0.5",
+          ".16"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Adoption",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "25:22:0"
+      }
+    ],
+    "src": "0:47:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.1.0",
+  "updatedAt": "2020-05-01T00:39:03.958Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
